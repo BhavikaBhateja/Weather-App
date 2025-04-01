@@ -1,4 +1,4 @@
-onst weatherForm = document.querySelector(".weatherForm");
+const weatherForm = document.querySelector(".weatherForm");
 const cityInput = document.querySelector(".cityInput");
 const card = document.querySelector(".card");
 const apiKey = "ff691566be604d2cf54c46b885e08171";
